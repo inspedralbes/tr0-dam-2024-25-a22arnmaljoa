@@ -1,0 +1,465 @@
+{
+  "preguntes": [
+    {
+      "id": 1,
+      "pregunta": "Quina marca utilitza el logo d'una poma mossegada?",
+      "respostes": [
+        {
+          "text": "Microsoft",
+          "imatge": "img/microsoft.jpeg"
+        },
+        {
+          "text": "Samsung",
+          "imatge": "img/samsung.jpeg"
+        },
+        {
+          "text": "Sony",
+          "imatge": "img/sony.png"
+        },
+        {
+          "text": "Apple",
+          "imatge": "img/apple.png"
+        }
+      ],
+      "resposta_correcta": 3
+    },
+    {
+      "id": 2,
+      "pregunta": "Quina marca de begudes és coneguda pel seu logotip vermell amb lletres blanques?",
+      "respostes": [
+        {
+          "text": "Pepsi",
+          "imatge": "img/pepsi.png"
+        },
+        {
+          "text": "Coca-Cola",
+          "imatge": "img/coca_cola.png"
+        },
+        {
+          "text": "Fanta",
+          "imatge": "img/fanta.png"
+        },
+        {
+          "text": "Sprite",
+          "imatge": "img/sprite.png"
+        }
+      ],
+      "resposta_correcta": 1
+    },
+    {
+      "id": 3,
+      "pregunta": "Quina marca de tecnologia té un logotip amb una lletra 'G' de colors?",
+      "respostes": [
+        {
+          "text": "Google",
+          "imatge": "img/google.png"
+        },
+        {
+          "text": "Facebook",
+          "imatge": "img/facebook.png"
+        },
+        {
+          "text": "Amazon",
+          "imatge": "img/amazon.png"
+        },
+        {
+          "text": "Twitter",
+          "imatge": "img/twitter.png"
+        }
+      ],
+      "resposta_correcta": 0
+    },
+    {
+      "id": 4,
+      "pregunta": "Quina marca de cotxes utilitza un logo amb quatre cercles entrellaçats?",
+      "respostes": [
+        {
+          "text": "BMW",
+          "imatge": "img/bmw.png"
+        },
+        {
+          "text": "Audi",
+          "imatge": "img/audi.png"
+        },
+        {
+          "text": "Volkswagen",
+          "imatge": "img/volkswagen.png"
+        },
+        {
+          "text": "Tesla",
+          "imatge": "img/tesla.png"
+        }
+      ],
+      "resposta_correcta": 1
+    },
+    {
+      "id": 5,
+      "pregunta": "Quina marca d'esports utilitza un logotip amb el símbol de la deessa grega Nike?",
+      "respostes": [
+        {
+          "text": "Puma",
+          "imatge": "img/puma.png"
+        },
+        {
+          "text": "Nike",
+          "imatge": "img/nike.png"
+        },
+        {
+          "text": "Adidas",
+          "imatge": "img/adidas.png"
+        },
+        {
+          "text": "Reebok",
+          "imatge": "img/reebok.png"
+        }
+      ],
+      "resposta_correcta": 1
+    },
+    {
+      "id": 6,
+      "pregunta": "Quina marca de menjar ràpid utilitza un logotip amb una gran 'M' daurada?",
+      "respostes": [
+        {
+          "text": "McDonald's",
+          "imatge": "img/mcdonalds.png"
+        },
+        {
+          "text": "Burger King",
+          "imatge": "img/burger_king.png"
+        },
+        {
+          "text": "Subway",
+          "imatge": "img/subway.png"
+        },
+        {
+          "text": "KFC",
+          "imatge": "img/kfc.png"
+        }
+      ],
+      "resposta_correcta": 0
+    },
+    {
+        "id": 7,
+        "pregunta": "Quina marca de luxe utilitza un logotip amb dues lletres 'C' entrellaçades?",
+        "respostes": [
+          {
+            "text": "Louis Vuitton",
+            "imatge": "img/louis_vuitton.png"
+          },
+          {
+            "text": "Gucci",
+            "imatge": "img/gucci.png"
+          },
+          {
+            "text": "Chanel",
+            "imatge": "img/chanel.png"
+          },
+          {
+            "text": "Hermès",
+            "imatge": "img/hermes.png"
+          }
+        ],
+        "resposta_correcta": 2
+      },
+      {
+        "id": 8,
+        "pregunta": "Quina marca de moda esportiva utilitza tres ratlles paral·leles com a logotip?",
+        "respostes": [
+          {
+            "text": "Adidas",
+            "imatge": "img/adidas.png"
+          },
+          {
+            "text": "Puma",
+            "imatge": "img/puma.png"
+          },
+          {
+            "text": "Nike",
+            "imatge": "img/nike.png"
+          },
+          {
+            "text": "Tommy Hilfiger",
+            "imatge": "img/tommy_hilfiger.png"
+          }
+        ],
+        "resposta_correcta": 0
+      },
+      {
+        "id": 9,
+        "pregunta": "Quina marca d'electrònica utilitza un logotip en forma d'una fletxa somrient que apunta d'una 'A' a una 'Z'?",
+        "respostes": [
+          {
+            "text": "eBay",
+            "imatge": "img/ebay.png"
+          },
+          {
+            "text": "Alibaba",
+            "imatge": "img/alibaba.png"
+          },
+          {
+            "text": "Amazon",
+            "imatge": "img/amazon.png"
+          },
+          {
+            "text": "Walmart",
+            "imatge": "img/walmart.png"
+          }
+        ],
+        "resposta_correcta": 2
+      },
+      {
+        "id": 10,
+        "pregunta": "Quina marca de tecnologia utilitza un logotip amb una 'F' blanca sobre fons blau?",
+        "respostes": [
+          {
+            "text": "Google",
+            "imatge": "img/google.png"
+          },
+          {
+            "text": "Twitter",
+            "imatge": "img/twitter.png"
+          },
+          {
+            "text": "Instagram",
+            "imatge": "img/instagram.png"
+          },
+          {
+            "text": "Facebook",
+            "imatge": "img/facebook.png"
+          }
+        ],
+        "resposta_correcta": 3
+      },
+      {
+        "id": 11,
+        "pregunta": "Quina marca utilitza un logotip amb dues lletres 'C' en colors contrastants?",
+        "respostes": [
+          {
+            "text": "Chanel",
+            "imatge": "img/chanel.png"
+          },
+          {
+            "text": "Gucci",
+            "imatge": "img/gucci.png"
+          },
+          {
+            "text": "Louis Vuitton",
+            "imatge": "img/louis_vuitton.png"
+          },
+          {
+            "text": "Hermès",
+            "imatge": "img/hermes.png"
+          }
+        ],
+        "resposta_correcta": 0
+      },
+      {
+        "id": 12,
+        "pregunta": "Quina marca d'electrònica és coneguda per la seva 'S' en color verd i blanc?",
+        "respostes": [
+          {
+            "text": "Sony",
+            "imatge": "img/sony.png"
+          },
+          {
+            "text": "Samsung",
+            "imatge": "img/samsung.png"
+          },
+          {
+            "text": "Apple",
+            "imatge": "img/apple.png"
+          },
+          {
+            "text": "Microsoft",
+            "imatge": "img/microsoft.png"
+          }
+        ],
+        "resposta_correcta": 1
+      },
+      {
+        "id": 13,
+        "pregunta": "Quina marca utilitza un logotip amb una bola blava i vermella amb una gran 'P' blanca?",
+        "respostes": [
+          {
+            "text": "Pepsi",
+            "imatge": "img/pepsi.png"
+          },
+          {
+            "text": "Coca-Cola",
+            "imatge": "img/coca_cola.png"
+          },
+          {
+            "text": "Fanta",
+            "imatge": "img/fanta.png"
+          },
+          {
+            "text": "Sprite",
+            "imatge": "img/sprite.png"
+          }
+        ],
+        "resposta_correcta": 0
+      },
+      {
+        "id": 14,
+        "pregunta": "Quina marca utilitza un logotip amb dues lletres 'L' i 'V' una per sobre l'altre?",
+        "respostes": [
+          {
+            "text": "Chanel",
+            "imatge": "img/chanel.png"
+          },
+          {
+            "text": "Gucci",
+            "imatge": "img/gucci.png"
+          },
+          {
+            "text": "Louis Vuitton",
+            "imatge": "img/louis_vuitton.png"
+          },
+          {
+            "text": "Hermès",
+            "imatge": "img/hermes.png"
+          }
+        ],
+        "resposta_correcta": 2
+      },
+      {
+        "id": 15,
+        "pregunta": "Quina marca de tecnologia ha cambiat recenment el seu logo de un ocell blau a una 'X'?",
+        "respostes": [
+          {
+            "text": "Google",
+            "imatge": "img/google.png"
+          },
+          {
+            "text": "Twitter",
+            "imatge": "img/twitter.png"
+          },
+          {
+            "text": "Instagram",
+            "imatge": "img/instagram.png"
+          },
+          {
+            "text": "Facebook",
+            "imatge": "img/facebook.png"
+          }
+        ],
+        "resposta_correcta": 1
+      },
+      {
+        "id": 16,
+        "pregunta": "Quina marca d'automòbils té un logotip de una 'T'?",
+        "respostes": [
+          {
+            "text": "BMW",
+            "imatge": "img/bmw.png"
+          },
+          {
+            "text": "Audi",
+            "imatge": "img/audi.png"
+          },
+          {
+            "text": "Tesla",
+            "imatge": "img/tesla.png"
+          },
+          {
+            "text": "Volkswagen",
+            "imatge": "img/volkswagen.png"
+          }
+        ],
+        "resposta_correcta": 2
+      },
+      {
+        "id": 17,
+        "pregunta": "Quina marca de roba, de les que hi ha, no es de roba esportiva?",
+        "respostes": [
+          {
+            "text": "Puma",
+            "imatge": "img/puma.png"
+          },
+          {
+            "text": "Tommy Hilfiger",
+            "imatge": "img/tommy_hilfiger.png"
+          },
+          {
+            "text": "Nike",
+            "imatge": "img/nike.png"
+          },
+          {
+            "text": "Adidas",
+            "imatge": "img/adidas.png"
+          }
+        ],
+        "resposta_correcta": 1
+      },
+      {
+        "id": 18,
+        "pregunta": "Quina marca de roba patrocina al jugador de futbol 'Lionel Messi'",
+        "respostes": [
+          {
+            "text": "Nike",
+            "imatge": "img/nike.png"
+          },
+          {
+            "text": "Adidas",
+            "imatge": "img/adidas.png"
+          },
+          {
+            "text": "Puma",
+            "imatge": "img/puma.png"
+          },
+          {
+            "text": "Reebok",
+            "imatge": "img/reebok.png"
+          }
+        ],
+        "resposta_correcta": 1
+      },
+      {
+        "id": 19,
+        "pregunta": "Quina marca es coneguda per oferir entrepans?",
+        "respostes": [
+          {
+            "text": "McDonald's",
+            "imatge": "img/mcdonalds.png"
+          },
+          {
+            "text": "Burger King",
+            "imatge": "img/burger_king.png"
+          },
+          {
+            "text": "Subway",
+            "imatge": "img/subway.png"
+          },
+          {
+            "text": "KFC",
+            "imatge": "img/kfc.png"
+          }
+        ],
+        "resposta_correcta": 2
+      },
+      {
+        "id": 20,
+        "pregunta": "Quina d'aquestes es una marca de cotxes?",
+        "respostes": [
+          {
+            "text": "McDonald's",
+            "imatge": "img/mcdonalds.png"
+          },
+          {
+            "text": "Volkswagen",
+            "imatge": "img/volkswagen.png"
+          },
+          {
+            "text": "Alibaba",
+            "imatge": "img/alibaba.png"
+          },
+          {
+            "text": "Lacoste",
+            "imatge": "img/lacoste.png"
+          }
+        ],
+        "resposta_correcta": 1
+      }
+    ]
+  }
+   
